@@ -7,7 +7,7 @@ CREATE TABLE VegFruTable
 );
 
 INSERT INTO VegFruTable(ID,Name, Type, Calories) VALUES
-(1,'Яблоко', 'Fruit', 52),
-(2,'Банан', 'Fruit', 89),
-(3,'Огурец', 'Vegetable', 16),
-(4,'Помидор', 'Vegetable', 18)
+(1,'РЇР±Р»РѕРєРѕ', 'Fruit', 60),
+(2,'Р‘Р°РЅР°РЅ', 'Fruit', 90),
+(3,'РћРіСѓСЂРµС†', 'Vegetable', 15),
+(4,'РџРѕРјРёРґРѕСЂ', 'Vegetable', 20)
